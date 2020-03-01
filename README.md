@@ -6,4 +6,4 @@ The concept of Trunk Based development: The idea is to work simultaneoulsy on di
 Commit means save
 Push means send
 Branch: If you work on the same branch - you wil loose your original version. So, work on a new branch each time yo have to.
-There are different git platforms: Github, Bitbucket, Git Labs.
+There are different git platforms: Github, Bitbucket, and Git Lab.
