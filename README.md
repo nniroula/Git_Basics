@@ -12,5 +12,5 @@ Creating branches:
 Github is a website with VCS(Git) in the cloud. With Github, You can outsource your project.
 Command Line Interface is an interface or means to interact wiht the computer in which you type your instructions rather than point and click. In Mac, it is called Terminal. In Windows, it is called Powershell.
 
-How would you do if some one wants to contribute to your project
-    This is done by what is called FORKING
+How would you do if some one wants to contribute to your project?
+    This is done by what is called FORKING.
