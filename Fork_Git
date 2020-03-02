@@ -1,0 +1,8 @@
+If you want to contribute to someone else's project, how would you do?
+    If Nabin wants to contribute to Nila's project, then nabin can open up his github account and search for nila's repo, OR,
+    Get repo's link from nila and use it to open up the project. In order to fork, either click on the fork option or click on 
+    "create a new file" - it will fork a project on nabin's repo. Or if click on the fork option, it will give you a project.
+    Once you type on a file what you wanna contribute, click on "commit a new file." This creates file, but where?
+    To know, click on "Create a pull request" so that a request is automatically send from contributor to recipent.
+    For recipent to get that file, recipent has to click on "Pull requests." If everky thing is good on the file from contributro
+    hit on "Merge on pull request" option and follow the prompts. You can also comment back to contributor if you want.
